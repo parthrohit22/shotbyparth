@@ -1,45 +1,62 @@
 # ShotByParth
 
-**ShotByParth** is a responsive photography portfolio website built with HTML, CSS, and custom fonts. It is designed to showcase photographic works in a visually compelling way using image galleries, custom styling, and mobile-friendly layouts.
+ShotByParth is a responsive portfolio website built using HTML and CSS.  
+The project focuses on layout structuring, responsive design principles, and static asset organization.
 
-## 🌐 Live Preview
+It demonstrates frontend fundamentals including styling architecture, icon integration, and gallery presentation.
 
-You can host this website using GitHub Pages, Netlify, or any other static hosting service to view it live.
+---
 
-## 📁 Project Structure
+## Overview
 
+This project was built as a static portfolio site to explore:
+
+- Responsive layout design  
+- CSS structuring and custom styling  
+- Static asset organization  
+- Image gallery implementation  
+- Font and icon integration  
+
+---
+
+## Project Structure
 ```
 shotbyparth/
 │
-├── index.html               # Main homepage
-├── css/
-│   ├── font-awesome.css     # Icon font styles
-│   └── magnific-popup.css   # Popup gallery styles
-├── fonts/                   # Custom icon fonts
-├── img/                     # Gallery and branding images
-└── README.md                # Project documentation (you are here)
+├── index.html              Main homepage  
+├── css/                    Stylesheets  
+├── fonts/                  Custom fonts  
+├── img/                    Image assets  
+└── README.md  
 ```
+---
 
-## ✨ Features
+## Features
 
-- Clean, responsive design
-- Font Awesome integration for icons
-- Image popup gallery
-- Custom font and style setup
-- Ideal for photographers, portfolios, or small creative businesses
+- Responsive layout for desktop and mobile  
+- Image popup gallery  
+- Font Awesome integration  
+- Structured static asset management  
+- Clean separation of HTML and CSS  
 
-## 🚀 How to Use
+---
 
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/yourusername/shotbyparth.git
-   ```
-2. Open `index.html` in your browser or host it online.
+## How to Run
 
-## 📸 Credits
+Clone the repository and open `index.html` in a browser.
 
-Images and assets belong to **ShotByParth**. Font Awesome is used for icons.
+This project can be deployed using any static hosting provider (GitHub Pages, Netlify, etc.).
 
-## 📄 License
+---
 
-This project is for educational/demo purposes. Contact the owner for commercial use.
+## Built With
+
+- HTML  
+- CSS  
+- Font Awesome  
+
+---
+
+## Purpose
+
+This project demonstrates frontend implementation skills and responsive UI structuring within a static environment.
